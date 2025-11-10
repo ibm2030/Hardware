@@ -1,0 +1,11 @@
+eagle.epf
+*.b#?
+*.s#?
+*.cmp
+*.gpi
+*.log
+*.plc
+*.pro
+*.sol
+*.stc
+*.sts
